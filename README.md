@@ -27,6 +27,8 @@ What's work??
     GPU and screen brightness
     HDMI Port with Audio
     Audio
+    Internal Microphone
+    Icloud and AppStore
     
 Issues
 
