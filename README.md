@@ -3,6 +3,7 @@
 MacOS Ventura 13.2 
 
 Hardware
+
     Lenovo Ideapad 330s-15ikb 81F
     CPU: Intel i5-8250U (KabyLake-R)
     RAM Memory: 20 GB RAM
