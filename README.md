@@ -13,6 +13,7 @@ Hardware
     (replaced) Wifi/BT-Card: INTEL Wifi/Bluetooth
 
 What's work??
+
     Camera
     WIFI/Bluetooth
     Touchpad with gestures
@@ -23,8 +24,10 @@ What's work??
     GPU and screen brightness
     
 Issues
+
     Audio not work(Next update)
 
 Recommendation
+
 -Clean Installation
 -For Icloud support generate smbios serial with OCAuxiliaryTools-->PI-->and Generate Buttons
