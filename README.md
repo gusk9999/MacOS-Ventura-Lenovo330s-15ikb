@@ -18,7 +18,7 @@ Hardware
 What's work??
 
     Camera
-    WIFI/Bluetooth
+    WIFI
     Touchpad with gestures
     Wake up and Sleep
     USB Ports
@@ -29,6 +29,7 @@ What's work??
 Issues
 
     Audio not work(Next update)
+    Bluetooth
 
 Recommendation
 
