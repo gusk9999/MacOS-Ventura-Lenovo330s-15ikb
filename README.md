@@ -12,7 +12,7 @@ Hardware
     RAM Memory: 20 GB RAM
     iGPU: UHD620 (KabyLake-R)
     SSD: SSD NVME Kingston NV1
-    (added) Disk 2: 1TB SATA OEM HDD (for Windows dualboot optional)
+    Disk 2: 1TB SATA OEM HDD (for Windows dualboot optional)
     (replaced) Wifi/BT-Card: INTEL Wifi/Bluetooth
 
 What's work??
