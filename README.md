@@ -25,10 +25,11 @@ What's work??
     Battery and Battery Indicator
     Keybord with shotcut keys
     GPU and screen brightness
+    HDMI Port with Audio
+    Audio
     
 Issues
 
-    Audio not work(Next update)
     Bluetooth
 
 Recommendation
