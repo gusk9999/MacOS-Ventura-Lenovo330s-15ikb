@@ -34,7 +34,7 @@ Recommendation
 
 -Clean Installation
 
--Change WIFI/Bluetooth ITLWM(for Intel chips) Kext with your own kext for your wifi chip.
+-Change WIFI/Bluetooth ITLWM(for Intel chips) Kext with your own kext for your wifi chip and add to Kernel section on config.plis(Disable old kext).
 
 -For Icloud support generate smbios serial with OCAuxiliaryTools-->PI-->and Generate Buttons
 
